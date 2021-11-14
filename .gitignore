@@ -1,0 +1,38 @@
+*.class
+*.log
+.java-version
+.bsp
+
+autoSetup.sh
+seedSetup.sh
+machine0Setup.sh
+machine1Setup.sh
+.DS_Store
+.end 
+.env
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/project
+project/target
+*/project/target/*
+*/target/*
+logs
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea
+*/lib
+
+#raphtory env
+mainproject/.env
+*.class
+*.log

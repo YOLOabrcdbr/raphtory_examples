@@ -1,0 +1,3 @@
+export FILE_SPOUT_DIRECTORY=src/main/scala/com/raphtory/examples/gab/data
+export FILE_SPOUT_FILENAM=gabNetwork500.csv
+export FILE_SPOUT_DROP_HEADER=true
